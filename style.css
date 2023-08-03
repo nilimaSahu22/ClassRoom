@@ -1,5 +1,6 @@
 #box{
-    background-color: blue;
+    /* background-color: blue; */
+    background: purple;
 }
 .heading{
     color: red;
